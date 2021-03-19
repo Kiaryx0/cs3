@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+  height: 500px;
+  width: 100%;
+}
+
+.App .container {
+  display: flex;
+}
+
+.App .counters {
+  display: flex;
+}
+
+.App .vault {
+  margin-top: 20px;
+}
